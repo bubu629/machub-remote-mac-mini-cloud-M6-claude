@@ -54,6 +54,6 @@ MacHub - Dedicated Overseas Mac mini Cloud | 原生海外 macOS 独享硬件租�
 1. 官网提交排队 ──> 2. 设备调度与确认 ──> 3. 收到账单通知 ──> 4. 完成支付 ──> 5. 快速交付开通
 
 有任何问题请咨询我们的工程师：
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?logo=whatsapp&logoColor=white)](https://wa.me/17052807570)
+👉 [点击直接在 WhatsApp 与工程师沟通](https://api.whatsapp.com/send?phone=17052807570)
 
 
