@@ -25,6 +25,8 @@ MacHub - Dedicated Overseas Mac mini Cloud | 原生海外 macOS 独享硬件租�
 > **限时体验**：Mac mini M4 测试机型起租仅需 **$10/月起**，支持自备或选配 Claude Pro / Max 订阅支持。
 
 ---
+有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## ✨ 核心特性
 
@@ -46,6 +48,9 @@ MacHub - Dedicated Overseas Mac mini Cloud | 原生海外 macOS 独享硬件租�
 | **自动化与爬虫测试** | 真实设备指纹与原生网络环境，完美执行跨平台自动化测试任务。 |
 
 ---
+有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
+
 
 ## 📋 申请流程
 
