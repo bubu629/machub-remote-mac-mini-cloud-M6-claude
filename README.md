@@ -7,6 +7,7 @@ MacHub - Dedicated Overseas Mac mini Cloud | 原生海外 macOS 独享硬件租�
 ### 海外独享 Mac mini 物理机租赁 | 原生 macOS 环境 | 开发者专属算力
 
 [![Website](https://img.shields.io/badge/Website-machub.co-blue)](https://machub.co/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?logo=whatsapp&logoColor=white)](https://wa.me/17052807570)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram)](https://t.me/machub666)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -51,3 +52,6 @@ MacHub - Dedicated Overseas Mac mini Cloud | 原生海外 macOS 独享硬件租�
 
 ```text
 1. 官网提交排队 ──> 2. 设备调度与确认 ──> 3. 收到账单通知 ──> 4. 完成支付 ──> 5. 快速交付开通
+
+
+
