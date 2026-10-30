@@ -10,7 +10,7 @@ MacHub - Dedicated Overseas Mac mini Cloud | 原生海外 macOS 独享硬件租�
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram)](https://t.me/machub666)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[官网直达](https://machub.co/) • [快速申请](#-申请流程) • [核心特性](#-为什么选择-machub) • [适用场景](#-适用场景) • [常见问题](#-faq)
+[官网直达](https://machub.co/) • [快速申请](https://machub.co/machub/apply) • [核心特性](https://machub.co/) • [适用场景](https://machub.co/machub/terms) • [常见问题](https://machub.co/machub/help)
 
 </div>
 
