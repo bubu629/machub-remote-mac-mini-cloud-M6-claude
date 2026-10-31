@@ -69,6 +69,8 @@ Apple Developer 开发者账号防关联：一机一号独占真实硬件序列�
 有任何问题请咨询我们的工程师：
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
+方案选择：租用现机 vs. 自购托管我们提供算力现机直租（Rental）与自有设备托管（Colocation）两种模式，满足不同阶段与场景的开发需求：
+
 1. 直接租用 MacHub 现机（Rental）适合追求快速上线、灵活周期或短期项目验证的个人与团队。
 
 极速交付，开箱即用：免去硬件采购与物流等待，确认订单后 1 个工作日内即可交付远程连接凭证。   
